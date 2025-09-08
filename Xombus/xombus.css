@@ -1,0 +1,41 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    /* flex-direction: row; */
+    /* padding: 1rem 7rem; */
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    gap: 250px;
+    height: 80px;
+
+}
+
+.container {
+    display: flex;
+    align-items: center; /* <-- This centers the h4s vertically */
+    gap: 100px;
+}
+
+
+button{
+border-radius: 20px;
+padding-top: 9px;
+padding-right: 25px;
+padding-bottom: 9px;
+padding-left: 25px;
+gap: 10px;
+
+     /* border: 2px solid black ;
+      border-radius: 20px; */
+}
+
+select{
+    border: 0px;
+    background: none;
+}
