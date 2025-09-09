@@ -1,3 +1,15 @@
 td{
     border: 2px solid black;
 }
+.first{
+    background-color: aqua;
+}
+a{
+    background-color: bisque;
+}
+span{
+    background-color: rgb(36, 147, 147);
+}
+.red{
+    background-color: blueviolet;
+}
